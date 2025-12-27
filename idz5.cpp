@@ -34,4 +34,5 @@ int main() {
 			minznach = maxznach;
 	}
 	cout << "Минимальное значение из максимальных значений столбцов:" << minznach << endl;
+    return 0;
 }
